@@ -29,6 +29,7 @@ Enhancements
 * Times in profile output are now bold instead of failure_color.
   (Matthew Boedicker)
 * Add --no-fail-fast command line option. (Gonzalo Rodríguez-Baltanás Díaz)
+* Limit spamminess of deprecation messages (Bradley Schaefer, Loren Segal)
 
 Bugfix
 * Fix a `NoMethodError` that was being raised when there were no shared
